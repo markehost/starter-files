@@ -1,9 +1,8 @@
-Coin Calculator 
+Main Heading 
 ===============
 
-I always use an online calculator to find out the value of the gold or silver content for a given coin.  After a few uses I didn't likehow it worked and figured this would be a fun exercise to do using JSON, Javascript and letting others look at the code on Github.
+a paragraph
 
-As I complete this tool, I will finish the documentation and provide notes on how I completed this simple calculator.
 
 
 Copyright and License 
