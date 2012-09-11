@@ -1,7 +1,10 @@
-Main Heading 
+A Nice Starting Point  
 ===============
 
-a paragraph
+This is my personal starting point when starting markup and style from scratch.  I don't like to have too much in the way from HTML5 Boilerplate and Bootstrap.  
+
+Every site is different so I just need the basics.  Anything that is common to nearly all project goes in this repository.
+
 
 
 
